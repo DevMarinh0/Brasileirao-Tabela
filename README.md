@@ -10,4 +10,4 @@ Este projeto é um site que exibe a tabela do Campeonato Brasileiro da Série A 
 ### Tecnologias Utilizadas
 
 - **HTML**: Estruturação do conteúdo do site.
-- **CSS**: Estilização para um layout atrativo e responsivo.
+- **CSS**: Estilização para um layout atrativo 
