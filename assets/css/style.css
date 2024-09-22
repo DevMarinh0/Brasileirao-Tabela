@@ -1,0 +1,87 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+table {
+    width: 100%; 
+    border-collapse: collapse; 
+}
+
+th, td {
+    padding: 10px; 
+    text-align: center; 
+    border: none;
+    font-size: 20px;
+}
+caption{
+    font-size: 30px;
+}
+
+th{
+    background-color: black;
+    color: white;
+}
+a{
+    text-decoration: none;
+    color: rgb(34, 34, 128);
+}
+.botafogo:hover{
+    background: linear-gradient(to right, #fff, #777777);
+}
+.fortaleza:hover{
+    background: linear-gradient(to left, rgb(37, 37, 199), rgb(233, 48, 48), white);
+}
+.palmeiras:hover{
+    background: linear-gradient(to right, #fff, rgb(1, 244, 1));
+}
+.flamengo:hover{
+    background: linear-gradient(to left, #412525, red);
+}
+.sao-paulo:hover{
+    background: linear-gradient(to right, white, rgb(70, 36, 36), red);
+}
+.bahia:hover{
+    background: linear-gradient(to left, rgb(46, 46, 216),rgb(220, 54, 54),rgb(207, 207, 67),white);
+}
+.cruzeiro:hover{
+    background: linear-gradient(to left, blue, white);
+}
+.inter:hover{
+    background: linear-gradient(to left, red, white);
+}
+.vasco:hover{
+    background: linear-gradient(to left, rgb(59, 35, 35), white);
+}
+.atletico-mg:hover{
+    background: linear-gradient(to left, rgb(61, 63, 34), white);
+}
+.juventude:hover{
+    background: linear-gradient(to left, rgb(30, 156, 30), white);
+}
+.bragantino:hover{
+    background: linear-gradient(to right, white, rgb(204, 204, 132), red);
+}
+.athletico-PR:hover{
+    background: linear-gradient(to right, white, rgb(62, 43, 43), red);
+}
+.gremio:hover{
+    background: linear-gradient(to left, rgb(46, 46, 216),rgb(34, 33, 65),rgb(113, 113, 60),white);
+}
+.ec-vitoria:hover{
+    background: linear-gradient(to right, white, rgb(48, 25, 25), red);
+}
+.criciuma:hover{
+    background: linear-gradient(to left, yellow, white);
+}
+.corinthians:hover{
+    background: linear-gradient(to right, white, rgb(152, 141, 141), red);
+}
+.fluminense:hover{
+    background: linear-gradient(to right, white, rgb(1, 175, 1), red);
+}
+.cuiaba:hover{
+    background: linear-gradient(to left, yellow, green);
+}
+.atlletivo-go:hover{
+    background: linear-gradient(to right, white, rgb(136, 90, 90), red);
+}
